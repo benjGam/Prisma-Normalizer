@@ -1,0 +1,20 @@
+{
+  "name": "prisma-normalizer",
+  "version": "1.0.0",
+  "description": "An extension for handling Prisma errors (has to be used with ResponseNormalizer)",
+  "main": "./lib/index.js",
+  "scripts": {
+    "build": "tsc --project tsconfig.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjGam/Prisma-Normalizer.git"
+  },
+  "author": "benjGam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benjGam/Prisma-Normalizer/issues"
+  },
+  "homepage": "https://github.com/benjGam/Prisma-Normalizer#readme"
+}
